@@ -27,7 +27,7 @@ O principal diferencial deste projeto é a sua **integração física com um Ard
 | :--- | :--- | :--- |
 | **Motor de Jogo** | Unity Engine | 6000.0.59f2 |
 | **Linguagem Principal** | C# | .NET 8.x |
-| **Microcontrolador** | Arduino IDE e Linguagem (Sketch) | lts |
+| **Microcontrolador** | Arduino IDE e Linguagem (Sketch) | LTS |
 | **Hardware** | Arduino Uno | N/A |
 
 ---
