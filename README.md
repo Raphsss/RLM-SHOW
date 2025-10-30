@@ -8,16 +8,16 @@
 
 O **RLM SHOW** é um projeto simples de jogo de **quiz matemático em ambiente 3D**, desenvolvido na **Unity**.
 
-O principal diferencial deste projeto é a sua **integração física com um Arduino Uno**. O Arduino é utilizado para fornecer *feedback tátil* e visual ao jogador, como acender LEDs verdes ou vermelhos para respostas corretas/incorretas, ou até mesmo acionar botões físicos para a interação dentro do jogo. Isso transforma a experiência digital em algo mais interativo e imersivo.
+O principal diferencial deste projeto é a sua **integração física com um Arduino Uno**. O Arduino é utilizado para fornecer *feedback tátil* ao jogador (no estilo passa ou repassa), como acionar botões físicos para a interação dentro do jogo. Isso transforma a experiência digital em algo mais interativo e imersivo.
 
 ---
 
 ### ✨ Funcionalidades
 
 * **Quiz em 3D:** Ambiente imersivo para apresentação e resposta das questões.
-* **Geração de Questões:** Criação dinâmica de problemas matemáticos básicos.
 * **Comunicação Serial:** Conexão robusta entre a Unity (C#) e o Arduino via porta serial.
 * **Feedback Físico:** Utilização do Arduino para controlar componentes externos (LEDs, buzzers, etc.) com base na lógica do jogo.
+* **Feedback Sonoro:** Leitura das questôes e alternativas pelo professor [@rlmthales](https://www.instagram.com/rlmthales/).
 
 ---
 
